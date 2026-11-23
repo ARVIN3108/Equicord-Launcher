@@ -30,7 +30,7 @@ case "$BRANCH" in
         ;;
 esac
 
-GITHUB_ORG="Johnnycyan"
+GITHUB_ORG="ARVIN3108"
 REPO_NAME="Equicord-Launcher"
 
 
